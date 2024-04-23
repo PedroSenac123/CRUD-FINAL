@@ -18,7 +18,7 @@
   
 ## Variáveis
   Em JavaScript, as variáveis são usadas para armazenar dados. Elas podem ser declaradas usando as palavras-chave var, let ou const, e podem armazenar diferentes tipos de dados, como números, strings, booleanos, arrays, objetos, entre outros.
-
+   
   
 ## Tipos de dados
   Os tipos de dados em JavaScript incluem números, strings, booleanos, arrays, objetos, entre outros. Cada tipo de dado tem suas próprias propriedades e métodos.
